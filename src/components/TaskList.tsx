@@ -27,7 +27,9 @@ export function TaskList() {
       isComplete: false,
     };
 
-    setTasks([...tasks, newTask]);
+    const updateTask = [...tasks, newTask];
+
+    setTasks(updateTask);
   }
 
   function handleToggleTaskCompletion(id: number) {
