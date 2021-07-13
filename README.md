@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align='center'> challenge concluded ✔️ during ignite bootcamp 🔥 </p>
+<p align='center'> Challenge concluded ✔️ during ignite bootcamp 🔥 </p>
 
 <br>
 
